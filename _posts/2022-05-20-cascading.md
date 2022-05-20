@@ -44,6 +44,5 @@ Author Style(개발자가 지정한 것) >> User Style(사용자가 지정한 �
 
 1\. css를 작성할 때는 전체에 적용될 스타일을 먼저 정하고 그 다음 작은거, 좀 더 작은 거 순으로 좁혀 나가야 한다.
 
-[##_Image|kage@bt13uZ/btrBtDoi9Qd/9s8tdQQO16qFsrDxPiWdbk/img.png|CDM|1.3|{"originWidth":308,"originHeight":258,"style":"alignCenter"}_##]
 
  2. 브라우저의 기본값에 사용자 정의 css가 덮어씌워진다.
